@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 import TelaSelecionarFilme from "./SelecionarFilme/SelecionarFilme"
 import TelaSelecionarHorario from "./SelecionarHorario/Horario"
-import TelaSelecionarAssento from "./SelecionarAssento/Assento"
+import TelaSelecionarAssento from "./SelecionarAssento/Selecionar"
 import TelaFinalizacao from "./Finalizacao/Finalizacao"
 
 import styled from 'styled-components'
